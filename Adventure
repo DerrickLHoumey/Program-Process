@@ -1,0 +1,24 @@
+Objectie:
+To create a story where the user can make choices and therefore alter the end of the story
+
+List of Variables:
+scenario1
+scenario2
+choice1 
+choice2
+choice3
+choice4
+
+
+Pseudo Code:
+Player starts at beiginning
+Ask scenario1
+Give option between choices1-2
+If option 1 go to sceanrio2
+If option 2 declare dead
+Ask question for scenario2
+Give option between choices3-4
+If option 3 Game is won
+If option 4 player dies
+
+
